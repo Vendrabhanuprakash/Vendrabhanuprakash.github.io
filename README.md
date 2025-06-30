@@ -1,23 +1,19 @@
-# Using task4 files for task5
-## Task 4 – Make Website Mobile-Friendly Using Media Queries
+# Task 5 – Static Website Deployment using GitHub Pages
 
-### 📱 Objective
-Convert a desktop-only layout into a responsive, mobile-friendly design using CSS media queries.
+## 🌐 Objective
 
-### 📁 Files
-- `index.html`: Web structure
-- `style.css`: Styling + media queries
-- No JavaScript used (as per task)
+Host a simple static website (HTML + CSS) using GitHub Pages.
 
-### 🔧 Responsive Features
-- Navigation collapses vertically under 768px
-- Boxes stack instead of sitting side-by-side
-- Font sizes and layout adjust for mobile view
+---
 
-### ✅ Tested
-Using Chrome DevTools mobile toolbar and resizing window.
+## 📁 Files Included
 
-### 📌 Concepts Used
-- CSS Flexbox
-- Media Queries
-- Mobile-first design
+- `index.html` – Main landing page
+- `style.css` – Styling for the page
+- (You can add images, JS, or other files if needed)
+
+---
+
+## 🚀 How It Was Deployed
+
+1. Created a special GitHub repository named:
